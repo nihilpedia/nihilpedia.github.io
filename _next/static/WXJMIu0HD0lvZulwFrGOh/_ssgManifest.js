@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fabout","\u002Frecent","\u002F","\u002F404","\u002Fpage\u002F[name]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
